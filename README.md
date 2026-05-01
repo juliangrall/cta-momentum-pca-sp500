@@ -37,7 +37,7 @@ Python, pandas, NumPy, scikit-learn, NetworkX, Matplotlib
 
 ## Files
 - `Code.ipynb` — full implementation with plots
-- `exercice-data-cta.pdf` — instructions
+- `exercice_data_cta.pdf` — instructions
 
 ## How to run
 ```python
